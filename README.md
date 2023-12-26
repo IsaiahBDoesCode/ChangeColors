@@ -2,8 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.7.
 
-1: Ensure nodeJS is installed. (You can confirm this by running the command: node -v)
-2: Navigate to the project directory
-3: Install the Angular CLI with the command: npm install -g @angular/cli
-4: Run npm install
-4: While in the directory run the command: ng serve --open and it should spin the app up. 
+Ensure nodeJS is installed. (You can confirm this by running the command: node -v)
+
+Navigate to the project directory
+
+Install the Angular CLI with the command: npm install -g @angular/cli
+
+Run npm install to install project dependencies
+
+While in the directory, run the command: ng serve --open
+
+This should spin the app up and open it in your default web browser.

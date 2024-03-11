@@ -32,6 +32,7 @@ export class AppComponent {
   };
 
   changeColor() {
+    console.log("Hello World")
     this.divStyles.backgroundColor = this.selectedColor;
   }
 
